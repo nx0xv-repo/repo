@@ -1,0 +1,8 @@
+Origin: nx0xv
+Label: nx0xv
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: a Cydia repo by nx0xv
